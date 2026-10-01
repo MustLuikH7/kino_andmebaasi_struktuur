@@ -21,7 +21,7 @@ Spiral + Cycle ORM
 
 Spiral is a PHP framework and Cycle is its ORM.
 
-Pros: MariaDB/MySQL support and good performance.
+Pros: MariaDB/Postgres support and good performance.
 Cons: Too complicated for our project and has a smaller community.
 
 Choice
